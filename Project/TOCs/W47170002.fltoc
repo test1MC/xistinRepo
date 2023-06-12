@@ -1,0 +1,1094 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  sourceDocument="C:\Users\cecheverria\Desktop\TRIAGE\178607\S072370\framemaker for Madcap\FM\W47170002.book">
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_883846">
+    <TocEntry
+      Title="Document Information"
+      Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_966977">
+      <TocEntry
+        Title="About this Technical Manual"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967105" />
+      <TocEntry
+        Title="Abbreviations and Terms"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_966969" />
+      <TocEntry
+        Title="Design Modifications"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967145" />
+      <TocEntry
+        Title="Document Producer"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967150" />
+      <TocEntry
+        Title="Additional Copies"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967156" />
+      <TocEntry
+        Title="Copyright"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967161">
+        <TocEntry
+          Title="Copyright © [%=W47170002.Copyright%]"
+          Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967164" />
+      </TocEntry>
+      <TocEntry
+        Title="Spare Parts"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967174" />
+    </TocEntry>
+    <TocEntry
+      Title="Machine Introduction"
+      Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_966301">
+      <TocEntry
+        Title="Intended Use of the Hi-Cone Model 8M42"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967212" />
+      <TocEntry
+        Title="Machine Orientation"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_970177">
+        <TocEntry
+          Title="Left Hand Machine"
+          Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_970326" />
+        <TocEntry
+          Title="Right Hand Machine"
+          Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_970385" />
+      </TocEntry>
+      <TocEntry
+        Title="Functional Description"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_970469" />
+      <TocEntry
+        Title="Machine Identification"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_969118" />
+      <TocEntry
+        Title="Responsible Packaging"
+        Link="/Content/W47170002/01-W47170002.htm#01-w47170002_2549888929_967205" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Safety"
+    Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_883846">
+    <TocEntry
+      Title="General"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_966864" />
+    <TocEntry
+      Title="Safety Message Descriptions"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_966884" />
+    <TocEntry
+      Title="Personnel Requirements"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_966904">
+      <TocEntry
+        Title="Operator"
+        Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_966907" />
+      <TocEntry
+        Title="Service Technicians"
+        Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_966910" />
+      <TocEntry
+        Title="Electricians"
+        Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_966924" />
+    </TocEntry>
+    <TocEntry
+      Title="Safety Signs"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_969078" />
+    <TocEntry
+      Title="Emergency Stop"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_970653" />
+    <TocEntry
+      Title="Main Power Disconnect"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_967040" />
+    <TocEntry
+      Title="Doors and Guards"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_967221">
+      <TocEntry
+        Title="Request to Enter"
+        Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_970938">
+        <TocEntry
+          Title="Pushbuttons"
+          Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_973418" />
+        <TocEntry
+          Title="Sequence"
+          Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_973401" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Electrical Cabinet"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_970876" />
+    <TocEntry
+      Title="Lockout Procedure"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_970993" />
+    <TocEntry
+      Title="Chemical Products"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_967582" />
+    <TocEntry
+      Title="Safety Precautions"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_967574" />
+    <TocEntry
+      Title="Safety Summary"
+      Link="/Content/W47170002/02-W47170002.htm#02-w47170002_1491576912_966085" />
+  </TocEntry>
+  <TocEntry
+    Title="Installation"
+    Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_883846">
+    <TocEntry
+      Title="Machine Arrival"
+      Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_970227">
+      <TocEntry
+        Title="Site Preparation"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_971996">
+        <TocEntry
+          Title="Ambient Conditions"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997005" />
+        <TocEntry
+          Title="Floor"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_971985" />
+      </TocEntry>
+      <TocEntry
+        Title="Recommended Equipment"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_972069" />
+      <TocEntry
+        Title="Machine Handling"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_989321">
+        <TocEntry
+          Title="Moving Skidded Equipment"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_978133" />
+        <TocEntry
+          Title="Inspection Documentation"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_989737" />
+        <TocEntry
+          Title="Moving the Machine"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_978203">
+          <TocEntry
+            Title="Lifting Diagram - Right Hand Machine"
+            Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_986681" />
+          <TocEntry
+            Title="Lifting Diagram - Left Hand Machine"
+            Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1008996" />
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Installation Data"
+      Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997358">
+      <TocEntry
+        Title="Installation Drawing(s)"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1004484">
+        <TocEntry
+          Title="Installation - Right Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_998532" />
+        <TocEntry
+          Title="Installation - Left Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1009025" />
+      </TocEntry>
+      <TocEntry
+        Title="Reel Stand and Fanfold"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_990318">
+        <TocEntry
+          Title="Reel Stand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_993976" />
+        <TocEntry
+          Title="Fanfold"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_994003" />
+        <TocEntry
+          Title="Reel Stand Locating"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1004660" />
+        <TocEntry
+          Title="Reel Stand Locating (Europe)"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_990453" />
+        <TocEntry
+          Title="Fanfold Locating"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_998663" />
+      </TocEntry>
+      <TocEntry
+        Title="Leg Installation"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_993422" />
+      <TocEntry
+        Title="Infeed Conveyor Installation"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1008443" />
+      <TocEntry
+        Title="Conveyor Connection Details"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_993642">
+        <TocEntry
+          Title="Infeed Detail (with idler) - Right Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1004925" />
+        <TocEntry
+          Title="Infeed Detail (with idler) - Left Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1009194" />
+        <TocEntry
+          Title="Infeed Detail (without idler) - Right Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1009225" />
+        <TocEntry
+          Title="Infeed Detail (without idler) - Left Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_993686" />
+        <TocEntry
+          Title="Outfeed Detail - Right Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1004974" />
+        <TocEntry
+          Title="Outfeed Detail - Left Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1009277" />
+      </TocEntry>
+      <TocEntry
+        Title="Discharge Safety Sensor Installation"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_998587" />
+      <TocEntry
+        Title="Machine Connections"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_992548">
+        <TocEntry
+          Title="Safety Processor Password Policy"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1006613" />
+        <TocEntry
+          Title="Control Wiring"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_1001869" />
+        <TocEntry
+          Title="Machine Connections - Right Hand"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_993093" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Machine Data"
+      Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_993098">
+      <TocEntry
+        Title="Noise"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997099" />
+      <TocEntry
+        Title="Utilities"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_981568" />
+    </TocEntry>
+    <TocEntry
+      Title="Disassembly and Removal"
+      Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997138">
+      <TocEntry
+        Title="General"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997139">
+        <TocEntry
+          Title="Transport and Auxiliary Equipment"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997140" />
+        <TocEntry
+          Title="Utility Connections"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997148" />
+      </TocEntry>
+      <TocEntry
+        Title="Move and Store"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997150">
+        <TocEntry
+          Title="Disassemble Machine"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997166" />
+        <TocEntry
+          Title="Storage Preparation"
+          Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997196" />
+      </TocEntry>
+      <TocEntry
+        Title="Permanent Removal from Plant"
+        Link="/Content/W47170002/03-W47170002.htm#03-w47170002_22733803_997201" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Operation"
+    Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_883846">
+    <TocEntry
+      Title="Operator Control Stations"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1024603">
+      <TocEntry
+        Title="Main Operator Control Station"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1024605" />
+      <TocEntry
+        Title="Reel Stand Operator Control Station"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1024795" />
+    </TocEntry>
+    <TocEntry
+      Title="Indicating Tower"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1028246" />
+    <TocEntry
+      Title="Human Machine Interface (HMI)"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_987068">
+      <TocEntry
+        Title="Operator Screen"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1025831">
+        <TocEntry
+          Title="Navigation Buttons"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1025837" />
+        <TocEntry
+          Title="Display Banners and Indicators"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1022098" />
+        <TocEntry
+          Title="Operator Function Buttons"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_995545" />
+        <TocEntry
+          Title="Messaging Components"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_994329" />
+      </TocEntry>
+      <TocEntry
+        Title="Speeds Screen"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1007752" />
+      <TocEntry
+        Title="Timers Screen"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1030355">
+        <TocEntry
+          Title="Timers Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1030366" />
+      </TocEntry>
+      <TocEntry
+        Title="Changeover Screen"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1013899">
+        <TocEntry
+          Title="[[Changeover Screens]]"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1014623" />
+        <TocEntry
+          Title="[[Changeover Steps Screens]]"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1023401" />
+      </TocEntry>
+      <TocEntry
+        Title="Adjust Screens"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1015902">
+        <TocEntry
+          Title="Adjustment Windows Recipe Legend"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1031600" />
+        <TocEntry
+          Title="Infeed Screw Adjust Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1048914" />
+        <TocEntry
+          Title="Jawdrum Adjust Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1016346" />
+        <TocEntry
+          Title="[[Cutoff Adjust Screen]]"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1016929" />
+        <TocEntry
+          Title="Turner/Diverter Adjust Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1017577" />
+        <TocEntry
+          Title="Servo Home Screens"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032423" />
+        <TocEntry
+          Title="Re-Home Servos Screen [[remove - replace with lift servo screen stuff]]"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032461" />
+      </TocEntry>
+      <TocEntry
+        Title="Engineer Screen"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032537">
+        <TocEntry
+          Title="Recipe Configuration Screens"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032630">
+          <TocEntry
+            Title="Recipe Configuration Screens"
+            Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032640" />
+        </TocEntry>
+        <TocEntry
+          Title="Machine Configuration Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032690" />
+        <TocEntry
+          Title="Fault Logging ITW Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032801" />
+        <TocEntry
+          Title="Change Passwords Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032810" />
+        <TocEntry
+          Title="Recipe Copy Backup and Restore Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032819" />
+        <TocEntry
+          Title="Burn Carrier Configuration Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1032909" />
+        <TocEntry
+          Title="Calibrate Feed Drum Dancer"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1033144" />
+        <TocEntry
+          Title="Calibrate Reel Stand Dancer"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1033957" />
+      </TocEntry>
+      <TocEntry
+        Title="Info Screen"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034141">
+        <TocEntry
+          Title="View I/O Applicator Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034281" />
+        <TocEntry
+          Title="View I/O Reel Stand Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034289" />
+        <TocEntry
+          Title="Servo Status Screens"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034305" />
+        <TocEntry
+          Title="Lift Controls Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034313" />
+        <TocEntry
+          Title="Solenoid Testing Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034364" />
+        <TocEntry
+          Title="Alarm History Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034429" />
+        <TocEntry
+          Title="Fault Logging Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034459" />
+        <TocEntry
+          Title="Clean Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034467" />
+        <TocEntry
+          Title="Stack Light Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034476" />
+        <TocEntry
+          Title="Login Screen"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034484">
+          <TocEntry
+            Title="Access Levels"
+            Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034488" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Change Passwords Screen"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1034928" />
+    </TocEntry>
+    <TocEntry
+      Title="Display Messages"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_975857">
+      <TocEntry
+        Title="Message Types"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1026353" />
+    </TocEntry>
+    <TocEntry
+      Title="Preparations"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1006489" />
+    <TocEntry
+      Title="Start"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_975871" />
+    <TocEntry
+      Title="Stop"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_975878">
+      <TocEntry
+        Title="Emergency Stop"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_978215">
+        <TocEntry
+          Title="Pushing the Emergency Stop Button"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_988089" />
+        <TocEntry
+          Title="Fixing the Problem"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_988079" />
+        <TocEntry
+          Title="Resetting the Emergency Stop"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_988136" />
+        <TocEntry
+          Title="Restarting the machine"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1023796" />
+      </TocEntry>
+      <TocEntry
+        Title="Normal Stop"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_978222">
+        <TocEntry
+          Title="Stop the Machine"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_988255" />
+        <TocEntry
+          Title="Restart the Machine"
+          Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_988343" />
+      </TocEntry>
+      <TocEntry
+        Title="Production Finished"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_978229" />
+    </TocEntry>
+    <TocEntry
+      Title="Rethread Carrier"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1043220" />
+    <TocEntry
+      Title="Runout Sequence (Unsynchronized)"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_1045746" />
+    <TocEntry
+      Title="Cleaning"
+      Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_975892">
+      <TocEntry
+        Title="Daily Cleaning Procedure"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_977122" />
+      <TocEntry
+        Title="Weekly Cleaning Procedure"
+        Link="/Content/W47170002/04-W47170002.htm#04-w47170002_806182514_977147" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Maintenance"
+    Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_883846">
+    <TocEntry
+      Title="General"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1076675" />
+    <TocEntry
+      Title="Infeed Conveyor"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_995381">
+      <TocEntry
+        Title="Inverted Container Sensors - Adjust"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1036566" />
+      <TocEntry
+        Title="Container Guides Rails"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1013769">
+        <TocEntry
+          Title="Container Guide Rails - Adjust Height"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_995595" />
+        <TocEntry
+          Title="Container Guide Rails - Adjust Width"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_995606" />
+      </TocEntry>
+      <TocEntry
+        Title="Container Cleanout Device"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_995623">
+        <TocEntry
+          Title="Container Cleanout Device - Set"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1013811" />
+        <TocEntry
+          Title="Container Cleanout Device - Change Rear Weight"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1008132" />
+      </TocEntry>
+      <TocEntry
+        Title="Infeed Timing Screws"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1065028">
+        <TocEntry
+          Title="Infeed Timing Screws - Remove"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1065362" />
+        <TocEntry
+          Title="Infeed Timing Screws - Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1065404" />
+        <TocEntry
+          Title="Infeed Timing Screws - Check Container Gap Sensor"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1068699" />
+      </TocEntry>
+      <TocEntry
+        Title="Infeed Drive"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1071166">
+        <TocEntry
+          Title="Infeed Drive - Replace Belt"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1071167" />
+        <TocEntry
+          Title="Infeed Drive - Tension Belt"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1071472" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Orienter"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1069386">
+      <TocEntry
+        Title="Upper Center Guide"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1077901">
+        <TocEntry
+          Title="Upper Center Guide - Remove"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1077298" />
+        <TocEntry
+          Title="Upper Center Guide - Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1072501" />
+      </TocEntry>
+      <TocEntry
+        Title="Upper Backrest"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1073165">
+        <TocEntry
+          Title="Upper Backrest - Remove"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1077953" />
+        <TocEntry
+          Title="Upper Backrest - Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078007" />
+      </TocEntry>
+      <TocEntry
+        Title="Backrest Spacer"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1073373">
+        <TocEntry
+          Title="Backrest Spacer - Remove"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078219" />
+        <TocEntry
+          Title="Backrest Spacer - Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078276" />
+      </TocEntry>
+      <TocEntry
+        Title="Lower Backrest"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1073537">
+        <TocEntry
+          Title="Lower Backrest - Remove"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078431" />
+        <TocEntry
+          Title="Lower Backrest - Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078469" />
+      </TocEntry>
+      <TocEntry
+        Title="Lower Center Guide"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1073864">
+        <TocEntry
+          Title="Lower Center Guide - Remove"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1076345" />
+        <TocEntry
+          Title="Lower Center Guide - Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078360" />
+      </TocEntry>
+      <TocEntry
+        Title="Transfer Guide"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078555">
+        <TocEntry
+          Title="Transfer Guide - Remove"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1074303" />
+        <TocEntry
+          Title="Transfer Guide - Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078604" />
+      </TocEntry>
+      <TocEntry
+        Title="Infeed Starwheels"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078847">
+        <TocEntry
+          Title="Infeed Starwheels - Change"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1074561" />
+      </TocEntry>
+      <TocEntry
+        Title="Orienter - Replace Height Limit Sensors"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1092326" />
+      <TocEntry
+        Title="Orienter - Adjust Turret Timing"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1093555">
+        <TocEntry
+          Title="Turret Alignment"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1094768" />
+        <TocEntry
+          Title="Infeed Starwheel Timing"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1093815" />
+        <TocEntry
+          Title="Infeed Screw Timing"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1094061" />
+        <TocEntry
+          Title="Jawdrum Starwheel Timing"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1094826" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Jawdrum"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_995391">
+      <TocEntry
+        Title="Jawdrum Starwheels"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1012015">
+        <TocEntry
+          Title="Jawdrum Starwheel - Adjust Pocket Cam"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1069079" />
+        <TocEntry
+          Title="Jawdrum Starwheel - Change Container Pockets"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1069821" />
+        <TocEntry
+          Title="Jawdrum Starwheel - Set Timing"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1059066" />
+      </TocEntry>
+      <TocEntry
+        Title="Jawdrum - Adjust Timing"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1012093" />
+      <TocEntry
+        Title="Jawdrum - Adjust Height"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1012143">
+        <TocEntry
+          Title="Setting Jawdrum Height for New Container (RAC)"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1052104" />
+        <TocEntry
+          Title="Setting Jawdrum Height for New Container (SAC)"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1086440" />
+        <TocEntry
+          Title="Replacing Height Limit Sensors"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1092495" />
+      </TocEntry>
+      <TocEntry
+        Title="Jawdrum Spacers"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1045206">
+        <TocEntry
+          Title="Jawdrum Spacers - Change"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078911" />
+        <TocEntry
+          Title="Jawdrum Spacers - Change Application Depth Spacer"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1056251" />
+      </TocEntry>
+      <TocEntry
+        Title="Jaws"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1045194">
+        <TocEntry
+          Title="Jaws - Remove"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1078948" />
+        <TocEntry
+          Title="Jaws - Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1016699" />
+        <TocEntry
+          Title="Jaws - Set Jaw Angle"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1064072" />
+      </TocEntry>
+      <TocEntry
+        Title="Jawdrum Cam"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1014484">
+        <TocEntry
+          Title="Jawdrum Cam - Adjust"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1079081" />
+      </TocEntry>
+      <TocEntry
+        Title="Rim Applied Carrier (RAC) - Overview"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_997123" />
+      <TocEntry
+        Title="Stripper Shoe (RAC)"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1079152">
+        <TocEntry
+          Title="Stripper Shoe (RAC) - Set"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1014234" />
+        <TocEntry
+          Title="Stripper Shoe (RAC) - Remove/Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1014391">
+          <TocEntry
+            Title="Removing Stripper Shoe"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1014392" />
+          <TocEntry
+            Title="Installing Stripper Shoe"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1037446" />
+        </TocEntry>
+        <TocEntry
+          Title="Stripper Shoe (RAC) - Adjust Auxiliary Container Guides"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1079309" />
+        <TocEntry
+          Title="Stripper Shoe (RAC) - Adjust Center Plow Height"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1079203" />
+        <TocEntry
+          Title="Stripper Shoe (RAC) - Adjust Center Plow Laterally"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1079289" />
+      </TocEntry>
+      <TocEntry
+        Title="Side Applied Carrier (SAC) - Overview"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_997131" />
+      <TocEntry
+        Title="Center Plow (SAC)"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1082433">
+        <TocEntry
+          Title="Center Plow (SAC) - Remove/Install"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1014438">
+          <TocEntry
+            Title="Removing Plow"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1037681" />
+          <TocEntry
+            Title="Installing Plow"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1014444" />
+        </TocEntry>
+        <TocEntry
+          Title="Center Plow (SAC) - Adjust Height"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1082326" />
+        <TocEntry
+          Title="Center Plow (SAC) - Adjust Laterally"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1082359" />
+      </TocEntry>
+      <TocEntry
+        Title="MPC Panel Deflector Guide"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050304">
+        <TocEntry
+          Title="MPC Panel Deflector Guide - Adjust"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1081328" />
+        <TocEntry
+          Title="MPC Panel Deflector Guide - Change"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1081349" />
+      </TocEntry>
+      <TocEntry
+        Title="Handle Deflector Guide"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050323">
+        <TocEntry
+          Title="Handle Deflector Guide - Adjust Angle"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1081373" />
+        <TocEntry
+          Title="Handle Deflector Guide - Adjust Height"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050343" />
+        <TocEntry
+          Title="Handle Deflector Guide - Change"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1057123" />
+      </TocEntry>
+      <TocEntry
+        Title="Jawdrum Carrier Feed Tray - Overview"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050526">
+        <TocEntry
+          Title="Jawdrum Carrier Feed - Change Feed Tray"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050566">
+          <TocEntry
+            Title="Removing Carrier Feed Tray"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050569" />
+          <TocEntry
+            Title="Installing Carrier Feed Tray"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050573" />
+        </TocEntry>
+        <TocEntry
+          Title="Jawdrum Carrier Feed - Set Feed Tray"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050596">
+          <TocEntry
+            Title="Centering Feed Tray"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050605" />
+          <TocEntry
+            Title="Positioning Feed Tray"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050609" />
+        </TocEntry>
+        <TocEntry
+          Title="Jawdrum Carrier Feed - Troubleshoot Feed Tray"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050632" />
+        <TocEntry
+          Title="Jawdrum Carrier Feed - Change Carrier Feed Tray Sled"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050676">
+          <TocEntry
+            Title="Removing Carrier Feed Tray Sled"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050679" />
+          <TocEntry
+            Title="Installing Carrier Feed Tray Sled"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050695" />
+        </TocEntry>
+        <TocEntry
+          Title="Jawdrum Carrier Feed - Thread Carrier Feed Tray"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050723" />
+      </TocEntry>
+      <TocEntry
+        Title="Feed Drum Carrier Feed - Overview"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1082487">
+        <TocEntry
+          Title="Feed Drum Carrier Feed - Thread"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050538" />
+        <TocEntry
+          Title="Feed Drum Carrier Feed - Replace Dance Arm Roller"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050760" />
+        <TocEntry
+          Title="Feed Drum Carrier Feed - Set Feed Drum Roller"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050820" />
+        <TocEntry
+          Title="Feed Drum Carrier Feed - Change Feed Drum Roller"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050841" />
+        <TocEntry
+          Title="Feed Drum Carrier Feed - Adjust Carrier Feed Pinch Rollers"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050858" />
+      </TocEntry>
+      <TocEntry
+        Title="Jawdrum - Replace Upper Feed Tray Roller"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050781" />
+      <TocEntry
+        Title="Jawdrum - Change Lower Feed Tray Roller"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1050802" />
+      <TocEntry
+        Title="Jawdrum - Set No Carrier on Jawdrum Switch"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1051708" />
+    </TocEntry>
+    <TocEntry
+      Title="Cutoff"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_995401">
+      <TocEntry
+        Title="Cutoff - Knife Position Overview"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1024143" />
+      <TocEntry
+        Title="Cutoff - Change Knives"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1032540">
+        <TocEntry
+          Title="Cutoff - Remove Knives"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1024196" />
+        <TocEntry
+          Title="Cutoff - Install Knives"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1024663" />
+      </TocEntry>
+      <TocEntry
+        Title="Cutoff - Adjust Cutoff Beam"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1024217" />
+      <TocEntry
+        Title="Cutoff - Change Starwheel"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1024800" />
+      <TocEntry
+        Title="Cutoff - Set Cutoff Home Offset"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1054636" />
+      <TocEntry
+        Title="Cutoff - Adjust Timing"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1054631" />
+      <TocEntry
+        Title="Cutoff - Adjust Height"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1044744">
+        <TocEntry
+          Title="Replacing Height Limit Sensors"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1092587" />
+      </TocEntry>
+      <TocEntry
+        Title="Cutoff - Correct Timing for 4-, 6-, 8-pack (SAC)"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1044732" />
+    </TocEntry>
+    <TocEntry
+      Title="Turner/Diverter Assembly"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_995411">
+      <TocEntry
+        Title="Turner/Diverter - Adjust Timing"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1017693">
+        <TocEntry
+          Title="Turner/Diverter - Check Turner Timing"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1017738" />
+        <TocEntry
+          Title="Turner/Diverter - Check Diverter Timing"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1016658" />
+        <TocEntry
+          Title="Turner/Diverter - Check Turner/Diverter Timing"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_998072" />
+      </TocEntry>
+      <TocEntry
+        Title="Turner/Diverter - Change Lugs"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_998078">
+        <TocEntry
+          Title="The color on the lug tags indicate which lugs are needed for a particular package size, discharge code, and discharge pattern"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1068616" />
+        <TocEntry
+          Title="Valid for CSA Machines"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1068617" />
+        <TocEntry
+          Title="Valid for CE Machines"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1068625" />
+        <TocEntry
+          Title="Removing Lug"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_998102" />
+      </TocEntry>
+      <TocEntry
+        Title="Turner/Diverter - Adjust Beam Height"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_998159">
+        <TocEntry
+          Title="Replacing Height Limit Sensors"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1038703" />
+      </TocEntry>
+      <TocEntry
+        Title="Turner/Diverter - Adjust Jam Detection"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1018097" />
+      <TocEntry
+        Title="Turner/Diverter - Change Discharge Guides"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_998167">
+        <TocEntry
+          Title="Removing Discharge Guides"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_998169" />
+        <TocEntry
+          Title="Installing Discharge Guides"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_998173" />
+      </TocEntry>
+      <TocEntry
+        Title="Turner/Diverter - Adjust Package Guide"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_998178" />
+    </TocEntry>
+    <TocEntry
+      Title="Reel Stand, Heat Sealer, and Fanfold"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047311">
+      <TocEntry
+        Title="Reel Stand/Fanfold - Splice Carrier"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047321" />
+      <TocEntry
+        Title="Reel Stand/Fanfold - Adjust Alignment Pins"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047346" />
+      <TocEntry
+        Title="If Reel Stand (option)"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047361">
+        <TocEntry
+          Title="Reel Stand - Set Carrier Path (A Reel Feeding)"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047367" />
+        <TocEntry
+          Title="Reel Stand - Set Carrier Path (B Reel Feeding)"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047422" />
+        <TocEntry
+          Title="Reel Stand - Adjust Drive Belt"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047478" />
+        <TocEntry
+          Title="Reel Stand - Adjust Main Belt Drive"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047500" />
+        <TocEntry
+          Title="Reel Stand - Adjust Drag Brakes"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047520" />
+        <TocEntry
+          Title="Reel Stand - Adjust Low Carrier Sensor"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047540" />
+        <TocEntry
+          Title="Reel Stand - Check No Carrier Sensor"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047559" />
+        <TocEntry
+          Title="Reel Stand - Check Speed Sensor"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1052532">
+          <TocEntry
+            Title="Setting Sensor Limit Values"
+            Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047586" />
+        </TocEntry>
+        <TocEntry
+          Title="Reel Stand - Adjust Carrier Safety Sensor"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047592" />
+        <TocEntry
+          Title="Reel Stand - Adjust Drive Enable Sensor"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047612" />
+      </TocEntry>
+      <TocEntry
+        Title="If Fanfold (option)"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047627">
+        <TocEntry
+          Title="Fanfold - Setup Fanfold Carrier"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1047628" />
+      </TocEntry>
+      <TocEntry
+        Title="Carrier - Bypass Defective Carrier"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1090013" />
+    </TocEntry>
+    <TocEntry
+      Title="Troubleshooting Guide"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1048326" />
+    <TocEntry
+      Title="Lubrication"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1039099">
+      <TocEntry
+        Title="Recommended Lubricants"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1039101" />
+      <TocEntry
+        Title="Recommended Lubrication Schedule"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1039150" />
+      <TocEntry
+        Title="Central Lubrication Bank (Standard)"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1048141" />
+      <TocEntry
+        Title="Jawdrum - Lubricate Moving Jaw Assemblies"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1048136" />
+      <TocEntry
+        Title="Jawdrum - Lubricate Starwheel Cam Followers"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1098014" />
+      <TocEntry
+        Title="Jawdrum - Lubricate Linear Slide Bearings"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1098117" />
+      <TocEntry
+        Title="Turret - Lubricate Upper Turret Stations"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1098138" />
+      <TocEntry
+        Title="Lift Jacks - Lubricate"
+        Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1098477">
+        <TocEntry
+          Title="Jawdrum"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1098608" />
+        <TocEntry
+          Title="Cutoff"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1098939" />
+        <TocEntry
+          Title="Turner/Diverter"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1098947" />
+        <TocEntry
+          Title="Turret"
+          Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1098573" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Servo Motor Torque Settings"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1039258" />
+    <TocEntry
+      Title="Maintenance Schedule"
+      Link="/Content/W47170002/05-W47170002.htm#05-w47170002_3639811853_1040434" />
+  </TocEntry>
+  <TocEntry
+    Title="Changeover"
+    Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1022757">
+    <TocEntry
+      Title="Preparation and Overview"
+      Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1039043" />
+    <TocEntry
+      Title="HMI Changeover Screens"
+      Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1039067">
+      <TocEntry
+        Title="Select Recipe"
+        Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1074249" />
+      <TocEntry
+        Title="Changeover Preparation"
+        Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1055618" />
+      <TocEntry
+        Title="Changeover Procedures"
+        Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1074298" />
+      <TocEntry
+        Title="Changeover Sequence"
+        Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1065949" />
+      <TocEntry
+        Title="Changeover Complete"
+        Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1055835" />
+    </TocEntry>
+    <TocEntry
+      Title="Changeover Guide"
+      Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1059692">
+      <TocEntry
+        Title="Pack-size Color Tags"
+        Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1059693" />
+      <TocEntry
+        Title="Pack-type Color Tags"
+        Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1059698" />
+      <TocEntry
+        Title="[[Position Tag Overview]]"
+        Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1059426" />
+    </TocEntry>
+    <TocEntry
+      Title="Changeover Values"
+      Link="/Content/W47170002/06-W47170002.htm#06-w47170002_2581499836_1059348" />
+  </TocEntry>
+</CatapultToc>

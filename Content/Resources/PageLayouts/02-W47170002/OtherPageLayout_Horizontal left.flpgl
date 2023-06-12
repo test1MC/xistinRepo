@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:sourceDocument="C:\Users\cecheverria\Desktop\TRIAGE\178607\S072370\framemaker for Madcap\FM\06-W47170002.fm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Horizontal left" PageType="Normal" Width="612pt" Height="792pt" Padding="0.25in" PageSize="Letter" Orientation="portrait">
+        <Frame Flow="header" Width="505.5077pt" Height="718.511pt" X="70.50096pt" Y="36.00072pt" ColumnCount="1" ColumnGap="28.3464pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="T_Text"><a name="06-w47170002_2581499836_961626"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Width="70.866pt" Height="14.1732pt" X="20.00232pt" Y="64.25208pt" ColumnCount="1" ColumnGap="28.3464pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z_Page_RP"><a name="06-w47170002_2581499836_961633"></a><MadCap:variable name="System.ChapterNumber" />-<MadCap:variable name="System.PageNumber" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  sourceDocument="C:\Users\cecheverria\Desktop\TRIAGE\178607\S072370\framemaker for Madcap\FM\W47170002.book">
+  <Variable
+    Name="Part No.">Part No. 4700MAN</Variable>
+  <Variable
+    Name="Model">Model 9M52 Can Multi-Packaging</Variable>
+  <Variable
+    Name="Serial Number">9M52XXXXXX</Variable>
+  <Variable
+    Name="Manual Type Long">Technical Manual</Variable>
+  <Variable
+    Name="Copyright">2018</Variable>
+  <Variable
+    Name="Company Name">Hartness, An ITW Company</Variable>
+  <Variable
+    Name="Street">500 Hartness Drive</Variable>
+  <Variable
+    Name="City">Greenville, SC 29615</Variable>
+  <Variable
+    Name="Country">USA</Variable>
+  <Variable
+    Name="Document No">Doc. No. W47100067</Variable>
+  <Variable
+    Name="Publication Date">October 2018</Variable>
+  <Variable
+    Name="Manual Type (Short)">TeM</Variable>
+</CatapultVariableSet>

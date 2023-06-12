@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  sourceDocument="C:\Users\cecheverria\Desktop\TRIAGE\178607\S072370\framemaker for Madcap\FM\W47170002.book">
+  <ConditionTag
+    Name="Comment"
+    BackgroundColor="#0019e5" />
+  <ConditionTag
+    Name="Draft_Indicator"
+    BackgroundColor="#0000ff" />
+  <ConditionTag
+    Name="FM8_SYSTEM_HIDEELEMENT"
+    BackgroundColor="#218921" />
+  <ConditionTag
+    Name="FM8_TRACK_CHANGES_ADDED" />
+  <ConditionTag
+    Name="FM8_TRACK_CHANGES_DELETED" />
+  <ConditionTag
+    Name="FM_PDF_Comments_Highlight" />
+  <ConditionTag
+    Name="FM_PDF_Comments_Underline"
+    BackgroundColor="#0000ff" />
+  <ConditionTag
+    Name="Version_Cyan"
+    BackgroundColor="#00ffff" />
+  <ConditionTag
+    Name="Version_Green"
+    BackgroundColor="#00ff00" />
+  <ConditionTag
+    Name="Version_Red"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="English" />
+  <ConditionTag
+    Name="Discharge_Conveyor__Dead_Plate_" />
+  <ConditionTag
+    Name="If_90_Transfer_Infeed" />
+  <ConditionTag
+    Name="If_Leg_Extensions" />
+  <ConditionTag
+    Name="If_Reel_Stand" />
+  <ConditionTag
+    Name="If_Straight_Infeed" />
+</CatapultConditionTagSet>

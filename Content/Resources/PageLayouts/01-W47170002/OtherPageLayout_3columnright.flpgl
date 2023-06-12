@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:sourceDocument="C:\Users\cecheverria\Desktop\TRIAGE\178607\S072370\framemaker for Madcap\FM\06-W47170002.fm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="3columnright" PageType="Normal" Width="612pt" Height="792pt" Padding="0.25in" PageSize="Letter" Orientation="portrait">
+        <Frame Flow="header" Width="340.1575pt" Height="12.75624pt" X="199.661pt" Y="36.27864pt" ColumnCount="1" ColumnGap="28.3464pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z_H0_Header_RP"><a name="06-w47170002_2581499836_961496"></a><MadCap:variable name="Heading.Level1" />
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Width="96.56424pt" Height="28.12536pt" X="71.568pt" Y="731.232pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z_Final_Logo"><a name="06-w47170002_2581499836_961520"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Width="468.6883pt" Height="650.3256pt" X="71.31744pt" Y="71.07552pt" ColumnCount="3" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="NC_NumberedCont" style="margin-bottom: 9pt; font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 18pt; letter-spacing: 0em; color: #000000; line-height: 22pt; text-decoration: none;"><a name="06-w47170002_2581499836_961489"></a>
+                        </p>
+                        <p class="NC_NumberedCont" style="margin-bottom: 9pt; font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 18pt; letter-spacing: 0em; color: #000000; line-height: 22pt; text-decoration: none;"><a name="06-w47170002_2581499836_961490"></a>
+                        </p>
+                        <p class="NC_NumberedCont" style="margin-bottom: 9pt; font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 18pt; letter-spacing: 0em; color: #000000; line-height: 22pt; text-decoration: none;"><a name="06-w47170002_2581499836_961491"></a>
+                        </p>
+                        <p class="T_Text"><a name="06-w47170002_2581499836_961492"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="decoration" Width="304.1575pt" Height="9.921599pt" X="72.2556pt" Y="40.24728pt" ColumnCount="1" ColumnGap="28.3464pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z_H1_Header_RP"><a name="06-w47170002_2581499836_961497"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="decoration" Width="70.866pt" Height="14.1732pt" X="468.7646pt" Y="739.3687pt" ColumnCount="1" ColumnGap="28.3464pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z_Page_RP"><a name="06-w47170002_2581499836_961504"></a><MadCap:variable name="System.ChapterNumber" />-<MadCap:variable name="System.PageNumber" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="decoration" Width="226.7719pt" Height="9.921599pt" X="197.0021pt" Y="742.2034pt" ColumnCount="1" ColumnGap="28.3464pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z_Doc_Number"><a name="06-w47170002_2581499836_961508"></a><MadCap:variable name="W47170002.Model" />
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="decoration" Width="244.9822pt" Height="5.66928pt" X="-76.31064pt" Y="379.7208pt" ColumnCount="1" ColumnGap="28.3464pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z_file_name"><a name="06-w47170002_2581499836_961515"></a><MadCap:variable name="W47170002.Manual Type (Short)" />&#160;&#160;<MadCap:variable name="System.SourceFile" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="decoration" Width="425.1967pt" Height="28.3464pt" X="348.5794pt" Y="432.432pt" ColumnCount="1" ColumnGap="28.3464pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z_Doc_Status"><a name="06-w47170002_2581499836_961519"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>
